@@ -8,6 +8,20 @@
       "when": 1751997152208,
       "tag": "0000_glamorous_lady_vermin",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752079305221,
+      "tag": "0001_rare_nightshade",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752083201905,
+      "tag": "0002_safe_blackheart",
+      "breakpoints": true
     }
   ]
 }
